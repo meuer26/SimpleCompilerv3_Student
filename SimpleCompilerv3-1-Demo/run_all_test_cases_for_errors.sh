@@ -1,6 +1,7 @@
 #!/bin/bash
 # Progress Bar code modified from: https://www.baeldung.com/linux/command-line-progress-bar
 # Parallel code written by Grok (xAI).
+# 12/2025 with Grok v4.
 
 # Needs sudo apt install parallel
 
