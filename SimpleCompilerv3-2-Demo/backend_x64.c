@@ -78,9 +78,10 @@ void textSectionHeader(FILE *prog) {
 }
 
 void functionHeader(FILE *prog, char * funcName) {
-    fprintf(prog, "    global %s:\n\n", funcName); 
-    fprintf(prog, "%s:\n", funcName); 
+    fprintf(prog, "    global %sFinal:\n\n", funcName); 
+    fprintf(prog, "%sFinal:\n", funcName); 
 }
+
 
 void funcPrologue(FILE *prog, struct SymbolTable * symbolTable) {
     
