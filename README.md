@@ -18,6 +18,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Only 32-bit integers supported.
 - Functions can take zero or one argument. Only one function per file is supported. A maximum of one do-while loop per function.
 - Symbol table can support up to 100 entries.
+- 300+ test cases for automated, parallel testing (including x86 and ARM test cases).
 
 
 
