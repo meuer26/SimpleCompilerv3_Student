@@ -14,7 +14,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Features
 
-- Front-end supports C-like input language. This language includes: declarations, declarations with assignment, reassignment, assignment of unary and binary expressions, addition, subtraction, multiplication and logical negation, Less Than operator, do-while loops, and increment. return values. 
+- Front-end supports C-like input language. This language includes: declarations, declarations with assignment, reassignment, assignment of unary and binary expressions, addition, subtraction, multiplication and logical negation, Less Than operator, do-while loops, increment, and return values. 
 - Only 32-bit integers supported.
 - Functions can take zero or one argument. Only one function per file is supported. A maximum of one do-while loop per function.
 - Symbol table can support up to 100 entries.
